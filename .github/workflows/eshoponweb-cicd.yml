@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: az2006-rg
   LOCATION: westus
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: b962409d-8377-49f0-9dc7-84ad2f28410c
-  WEBAPP-NAME: az2006app59898723
+  SUBSCRIPTION-ID: 23f25e0f-2034-439f-9428-3550cee7aa02
+  WEBAPP-NAME: az2006app59901436
 
 jobs:
   #Build, test and publish .net web project in repository
